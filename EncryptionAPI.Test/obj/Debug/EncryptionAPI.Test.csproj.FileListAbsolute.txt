@@ -1,0 +1,11 @@
+C:\Dev\Git\EncryptionPoC\EncryptionAPI.Test\bin\Debug\Database\TestDatabase.mdf
+C:\Dev\Git\EncryptionPoC\EncryptionAPI.Test\bin\Debug\EncryptionAPI.Test.dll.config
+C:\Dev\Git\EncryptionPoC\EncryptionAPI.Test\bin\Debug\EncryptionAPI.Test.dll
+C:\Dev\Git\EncryptionPoC\EncryptionAPI.Test\bin\Debug\EncryptionAPI.Test.pdb
+C:\Dev\Git\EncryptionPoC\EncryptionAPI.Test\bin\Debug\EncryptionAPI.dll
+C:\Dev\Git\EncryptionPoC\EncryptionAPI.Test\bin\Debug\nunit.framework.dll
+C:\Dev\Git\EncryptionPoC\EncryptionAPI.Test\bin\Debug\EncryptionAPI.pdb
+C:\Dev\Git\EncryptionPoC\EncryptionAPI.Test\bin\Debug\nunit.framework.xml
+C:\Dev\Git\EncryptionPoC\EncryptionAPI.Test\obj\Debug\EncryptionAPI.Test.csprojResolveAssemblyReference.cache
+C:\Dev\Git\EncryptionPoC\EncryptionAPI.Test\obj\Debug\EncryptionAPI.Test.dll
+C:\Dev\Git\EncryptionPoC\EncryptionAPI.Test\obj\Debug\EncryptionAPI.Test.pdb

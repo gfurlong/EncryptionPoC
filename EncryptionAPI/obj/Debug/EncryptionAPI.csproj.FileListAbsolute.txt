@@ -1,0 +1,4 @@
+C:\Dev\Git\EncryptionPoC\EncryptionAPI\bin\Debug\EncryptionAPI.dll
+C:\Dev\Git\EncryptionPoC\EncryptionAPI\bin\Debug\EncryptionAPI.pdb
+C:\Dev\Git\EncryptionPoC\EncryptionAPI\obj\Debug\EncryptionAPI.dll
+C:\Dev\Git\EncryptionPoC\EncryptionAPI\obj\Debug\EncryptionAPI.pdb

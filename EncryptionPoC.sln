@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptionAPI", "EncryptionAPI\EncryptionAPI.csproj", "{D707C474-E656-4AC2-AA6E-98A6233D7417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptionAPI.Test", "EncryptionAPI.Test\EncryptionAPI.Test.csproj", "{D2B52BEE-DC33-4F38-B317-14653CB0A520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D707C474-E656-4AC2-AA6E-98A6233D7417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D707C474-E656-4AC2-AA6E-98A6233D7417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D707C474-E656-4AC2-AA6E-98A6233D7417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D707C474-E656-4AC2-AA6E-98A6233D7417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B52BEE-DC33-4F38-B317-14653CB0A520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B52BEE-DC33-4F38-B317-14653CB0A520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B52BEE-DC33-4F38-B317-14653CB0A520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B52BEE-DC33-4F38-B317-14653CB0A520}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
